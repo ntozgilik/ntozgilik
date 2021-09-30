@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntozgilik
-- 👀 I’m interested in test automation
+- 👀 I’m interested in test architect
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on testers
 - 📫 How to reach me in linkedin : https://www.linkedin.com/in/nur-tuba-%C3%B6-774131127/
